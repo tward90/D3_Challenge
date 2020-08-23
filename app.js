@@ -255,9 +255,6 @@ d3.json('data/samples.json').then((importedData) => {
 
     }
 
-
-
-
     initDemo();
     
     const subjectRange = []
