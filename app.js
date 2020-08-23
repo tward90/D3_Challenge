@@ -1,7 +1,7 @@
 // Read json file into JavaScript and assign values to dropdown
 
 // // Read JSON file into javascript
-d3.json('../data/samples.json').then((importedData) => {
+d3.json('data/samples.json').then((importedData) => {
 
 
     const data = importedData;
